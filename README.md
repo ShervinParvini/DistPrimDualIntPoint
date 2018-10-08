@@ -1,2 +1,2 @@
 # DistPrimDualIntPoint
-This is a prototype for a distributed primal-dual interior-point method written in Julia-0.5.1.
+This is a prototype for a distributed primal-dual interior-point method written in Julia-0.5.1. Details of the code can be found in the paper "Parallel Exploitation for Tree-Structured Coupled Quadratic Programming in Julia" by Shervin Parvini Ahmadi and Anders Hansson which is accepted for presentation in 22nd International Conference on System Theory, Control and Computing in Sinaia, Romania.
